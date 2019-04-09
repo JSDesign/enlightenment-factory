@@ -1,6 +1,8 @@
 // TODO: add Akin link http://spacecraft.ssl.umd.edu/akins_laws.html
 // TODO: add better transitioning
 
+'use strict';
+
 import { quotes } from './quotes.js';
 
 function randomQuote() {
